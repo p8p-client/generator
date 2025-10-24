@@ -4,6 +4,7 @@ The Code Generator component reads Kubernetes OpenAPI v3 specifications and gene
 PHP model and service classes. It extracts Kubernetes metadata (Group/Version/Kind), converts OpenAPI
 types to PHP types, and produces PSR-4 compliant code ready for use with the P8P Client.
 
+
 ## Resources
 
 * [Documentation](https://github.com/p8p-client/p8p/blob/main/doc/generate.md)
